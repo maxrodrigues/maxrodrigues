@@ -1,5 +1,47 @@
 ### 👋 Hi, I'm Max Rodrigues and welcome!!!
 
+```php
+namespace MaxRodrigues;
+
+class About extends Me {
+    public function getCurrentWorkplace() 
+    {
+        return [
+            'workplace' => [
+                'company' => 'Espaço Mercado',
+                'position' => 'Full Stack Developer' 
+            ],
+        ];
+    }
+
+    public function getDailyKnowledge() 
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            Bootstrap::class,
+            Aws::class
+        ];
+    }
+
+    public function getLearningNow() 
+    {
+        return [
+            ReactJS::class,
+            ReactNative::class,
+            NodeJS::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
+
+
+
 <p align="center">
   <a href="https://github.com/maxrodrigues">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maxrodrigues&count_private=true&show_icons=true&theme=merko">
