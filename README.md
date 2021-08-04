@@ -35,12 +35,12 @@ class About extends Me {
 
     public function getFutureGoal()
     {
-        return 'To contribute to open source.';
+        return 'Contribute to the development community';
     }
 }
 ```
 
-
+---
 
 <p align="center">
   <a href="https://github.com/maxrodrigues">
