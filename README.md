@@ -41,7 +41,7 @@ class About extends Me {
 ```
 
 ---
-
+<!--
 <p align="center">
   <a href="https://github.com/maxrodrigues">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maxrodrigues&count_private=true&show_icons=true&theme=merko">
@@ -50,6 +50,7 @@ class About extends Me {
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxrodrigues&layout=compact&theme=merko&hide=css">
   </a>
 </p>
+-->
   
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5527998670199&text=Oi%20Max%2C%20tudo%20bem%3F%20Peguei%20seu%20contato%20no%20github!">
