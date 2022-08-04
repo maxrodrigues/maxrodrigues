@@ -8,8 +8,8 @@ class About extends Me {
     {
         return [
             'workplace' => [
-                'company' => 'Espaço Mercado',
-                'position' => 'Full Stack Developer' 
+                'company' => 'Atlas Technologies',
+                'position' => 'Backend Engineer' 
             ],
         ];
     }
@@ -19,17 +19,13 @@ class About extends Me {
         return [
             Php::class,
             Laravel::class,
-            Bootstrap::class,
-            Aws::class
         ];
     }
 
     public function getLearningNow() 
     {
         return [
-            ReactJS::class,
-            ReactNative::class,
-            NodeJS::class,
+            DivingDeepIntoLaravel::class
         ];
     }
 
