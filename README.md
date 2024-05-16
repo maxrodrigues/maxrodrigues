@@ -68,7 +68,10 @@ class About extends Me {
 
 ---
 
+## Alguns projetos para estudo
+> Os projetos estão apenas do Github, não foi feito nenhum deploy
 
+- [Gerenciador de Usuários](https://github.com/maxrodrigues/max-user-management)
 
 <!--
 **maxrodrigues/maxrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
