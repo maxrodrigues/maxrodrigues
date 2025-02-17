@@ -25,7 +25,8 @@ class About extends Me {
     public function getLearningNow() 
     {
         return [
-            DivingDeepIntoLaravel::class
+            DivingDeepIntoLaravel::class,
+            GoLang::class,
         ];
     }
 
